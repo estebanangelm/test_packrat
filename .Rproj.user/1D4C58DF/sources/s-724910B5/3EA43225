@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512497477712.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3EA43225",
+    "lastKnownWriteTime" : 1512498033,
+    "last_content_update" : 1512498033655,
+    "path" : "~/UBC/Block_3/DSCI_522/test_packrat/test_packrat.R",
+    "project_path" : "test_packrat.R",
+    "properties" : {
+        "cursorPosition" : "6,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

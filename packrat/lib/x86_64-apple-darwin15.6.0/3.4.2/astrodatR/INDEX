@@ -1,0 +1,22 @@
+COMBO17_lowz            Galaxy color-magnitude diagram
+COUP_var                COUP: X-ray source variability
+GX                      GX 5-1: X-ray source variability
+GlobClus_mag            Globular cluster magnitudes
+GlobClus_prop           Galactic globular cluster properties
+HIP                     Hipparchos stars
+LMC_dist                Distance to the Large Magellanic Cloud
+SDSS_QSO                Sloan Digital Sky Survey quasars
+SDSS_ptsrc_test         Sloan Digital Sky Survey point source
+                        photometry: Test sample
+SDSS_ptsrc_train        Sloan Digital Sky Survey point source
+                        photometry: Training sample
+Shapley_galaxy          Shapley Concentration of galaxies redshift
+                        survey
+Sun_spot_num            Sunspot numbers
+asteroid_dens           Densities of asteroids
+censor_Be               Stellar abundances and planets
+ell_gal_profile         Elliptical galaxy radial profiles
+exoplanet_RV            Exoplanet radial velocities
+plan_neb_LF             Planetary nebula luminosity function
+protostellar_disks      Protostellar disks
+protostellar_jets       Protostellar jets
